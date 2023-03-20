@@ -15,3 +15,4 @@ namespace ProductReviewManagement
         public bool isLike { get; set; }
     }
 }
+
